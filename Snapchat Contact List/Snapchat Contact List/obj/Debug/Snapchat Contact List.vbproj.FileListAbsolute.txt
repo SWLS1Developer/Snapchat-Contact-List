@@ -1,0 +1,20 @@
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\bin\Debug\Snapchat Contact List.exe.config
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\bin\Debug\Snapchat Contact List.exe
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\bin\Debug\Snapchat Contact List.pdb
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\bin\Debug\Snapchat Contact List.xml
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.Form1.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.Resources.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat Contact List.vbproj.GenerateResource.cache
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat Contact List.vbproj.CoreCompileInputs.cache
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat Contact List.exe
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat Contact List.xml
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat Contact List.pdb
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.Find.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.New_Contact.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat Contact List.vbproj.AssemblyReference.cache
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.New_File.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.Pictures.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.Add_Picture_s_.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.Chat.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.New_Chat.resources
+C:\Users\nanon\source\repos\Snapchat Contact List\Snapchat Contact List\obj\Debug\Snapchat_Contact_List.ColorList.resources
