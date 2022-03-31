@@ -8,7 +8,7 @@ Public Class Form1
     Public fileRegex As New Regex("([\w ]{1,})\-(\d)")
 
     Public contacts As List(Of Contact)
-    Public Const FileExt As String = "babake"
+    Public Const FileExt As String = "scl" '*.scl
     Public path As String
     Private currentLoc As String
 
